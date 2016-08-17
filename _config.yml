@@ -1,0 +1,28 @@
+name: dwizard
+favicon: null
+layout_spectrum: 0.5392759791575372
+typography_spectrum: 0.013151767197996378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.02321130922064185
+  lightness: 0.45500806625932455
+  saturation: 0.6894036205485463
+  rhythmicContrast: 0.8645603409968317
+purpose: []
